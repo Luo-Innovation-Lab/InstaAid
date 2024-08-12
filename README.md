@@ -24,9 +24,9 @@ To get started with InstaAid, ensure that you have Flutter installed on your mac
 ### Installation
 
 1. **Clone the Repository**:
-   \`\`\`bash
+   '''bash
    git clone https://github.com/yourusername/InstaAid.git
-   \`\`\`
+   '''
 2. **Navigate to the Project Directory**:
    \`\`\`bash
    cd InstaAid
