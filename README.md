@@ -50,9 +50,6 @@ To get started with InstaAid, ensure that you have Flutter installed on your mac
 
 We welcome contributions to improve InstaAid! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
