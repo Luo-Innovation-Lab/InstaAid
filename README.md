@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE]](https://youtu.be/HfKcyqZxKT8)
+(https://youtu.be/HfKcyqZxKT8)
 # InstaAid
 
 InstaAid is an AI-powered emergency assistance app designed to provide rapid, situation-specific guidance during emergencies, whether on the battlefield, at home, or in any high-stress environment.
@@ -25,7 +25,7 @@ To get started with InstaAid, ensure that you have Flutter installed on your mac
 
 1. **Clone the Repository**:
 ```bash
-   git clone https://github.com/yourusername/InstaAid.git
+   git clone https://github.com/yourusername/InstaAid.git](https://github.com/Luo-Innovation-Lab/InstaAid.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
