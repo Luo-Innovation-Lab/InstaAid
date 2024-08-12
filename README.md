@@ -1,4 +1,6 @@
-(https://youtu.be/HfKcyqZxKT8)
+
+
+[![Demo Video](https://img.youtube.com/vi/aIOMfogL9_U/0.jpg)]([https://www.youtube.com/watch?v=aIOMfogL9_U](https://youtu.be/HfKcyqZxKT8))
 # InstaAid
 
 InstaAid is an AI-powered emergency assistance app designed to provide rapid, situation-specific guidance during emergencies, whether on the battlefield, at home, or in any high-stress environment.
